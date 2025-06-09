@@ -1,0 +1,87 @@
+{
+  "pueblo": "Javea y Denia",
+  "version": "1.0",
+  "fechaCreacion": "2025-06-09T22:30:38.609Z",
+  "lugares": [
+    {
+      "nombre": "Castillo de Denia",
+      "descripcion": "El castillo de Denia es un castillo que sirvió de fortaleza en la época de la piratería del Mediterráneo. Está situado en la mayor altura de la ciudad de Denia, en la provincia de Alicante, España.",
+      "lat": 38.842415,
+      "lng": 0.107605,
+      "pregunta": {
+        "texto": "¿En qué época fue construido originalmente el Castillo de Denia y cuál era su función principal?",
+        "respuestas": [
+          "En la Edad Media, como fortaleza defensiva frente a ataques marítimos.",
+          "En la época romana, como villa residencial para nobles.",
+          "En el siglo XIX, como base militar para la guerra civil.",
+          "En la Edad Moderna, como palacio real para la monarquía española."
+        ],
+        "correcta": 0
+      }
+    },
+    {
+      "nombre": "Puerto de Denia",
+      "descripcion": "El Puerto de Denia es un punto estratégico para el transporte marítimo, conectando la península con las Islas Baleares. Combina actividad pesquera, comercial y turística, siendo también un puerto deportivo.",
+      "lat": 38.841956,
+      "lng": 0.112696,
+      "pregunta": {
+        "texto": "¿Cuál es la principal característica del Puerto de Denia?",
+        "respuestas": [
+          "Es un puerto pesquero y base para ferris que conectan con las Islas Baleares.",
+          "Es un puerto exclusivamente deportivo sin actividad comercial.",
+          "Es un puerto construido en el siglo XIX para la marina militar.",
+          "Es un puerto abandonado sin uso actual."
+        ],
+        "correcta": 0
+      }
+    },
+    {
+      "nombre": "Torre del gerro",
+      "descripcion": "La Torre del Gerro es una torre vigía del siglo XVI situada en un promontorio cerca de Denia. Formaba parte del sistema de defensa costera para alertar sobre ataques de piratas berberiscos.",
+      "lat": 38.81964,
+      "lng": 0.160503,
+      "pregunta": {
+        "texto": "¿Qué importancia tiene la Torre del Gerro en Denia?",
+        "respuestas": [
+          "Es una torre defensiva construida para vigilar y proteger la costa de ataques piratas.",
+          "Es una antigua torre de reloj del centro histórico.",
+          "Es un faro para la navegación marítima construido en el siglo XX.",
+          "Es una torre residencial de un palacio renacentista."
+        ],
+        "correcta": 0
+      }
+    },
+    {
+      "nombre": "Cap de Sant Antoni",
+      "descripcion": "El Cabo de San Antonio es un parque natural protegido con impresionantes acantilados y senderos. Es un lugar ideal para el senderismo y disfrutar de panorámicas del Mediterráneo.",
+      "lat": 38.803062,
+      "lng": 0.189342,
+      "pregunta": {
+        "texto": "¿Qué destaca del Cabo de San Antonio en Jávea?",
+        "respuestas": [
+          "Es una reserva natural con acantilados y vistas al mar Mediterráneo.",
+          "Es un puerto comercial principal de la ciudad.",
+          "Es un lugar para la pesca tradicional exclusivamente.",
+          "Es un área urbana con centros comerciales."
+        ],
+        "correcta": 0
+      }
+    },
+    {
+      "nombre": "Casco antiguo de Jávea",
+      "descripcion": "El casco antiguo de Jávea conserva su estructura medieval con calles estrechas, plazas y edificios históricos que reflejan su pasado como villa fortificada.",
+      "lat": 38.788467,
+      "lng": 0.162933,
+      "pregunta": {
+        "texto": "¿Cuál es el origen del casco antiguo de Jávea?",
+        "respuestas": [
+          "Fue fundado en época medieval, con calles estrechas y arquitectura tradicional.",
+          "Es una construcción moderna del siglo XX.",
+          "Fue un asentamiento romano sin influencias posteriores.",
+          "Es una zona industrial desarrollada en los años 80."
+        ],
+        "correcta": 0
+      }
+    }
+  ]
+}
