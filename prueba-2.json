@@ -1,0 +1,23 @@
+{
+  "pueblo": "prueba 2",
+  "version": "1.0",
+  "fechaCreacion": "2025-06-10T10:59:22.011Z",
+  "lugares": [
+    {
+      "nombre": "IES MARIA IBARS",
+      "descripcion": "PRUEBA",
+      "lat": 38.844231,
+      "lng": 0.098732,
+      "pregunta": {
+        "texto": "PRUEBA",
+        "respuestas": [
+          "PRUEBA",
+          "PRUEBA",
+          "PRUEBA",
+          "PRUEBA"
+        ],
+        "correcta": 2
+      }
+    }
+  ]
+}
