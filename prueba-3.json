@@ -1,0 +1,23 @@
+{
+  "pueblo": "PRUEBA 3",
+  "version": "1.0",
+  "fechaCreacion": "2025-06-10T14:17:12.574Z",
+  "lugares": [
+    {
+      "nombre": "PRUEBA",
+      "descripcion": "PRUEBA",
+      "lat": 38.788452,
+      "lng": 0.178539,
+      "pregunta": {
+        "texto": "PRUEBA",
+        "respuestas": [
+          "PRUEBA",
+          "PRUEBA",
+          "PRUEBA",
+          "PRUEBA"
+        ],
+        "correcta": 0
+      }
+    }
+  ]
+}
