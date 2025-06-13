@@ -1,0 +1,64 @@
+{
+  "pueblos": [],
+  "marcadoresLibres": [
+    {
+      "nombre": "x",
+      "descripcion": "x",
+      "pregunta": "x",
+      "respuestas": [
+        "x",
+        "x",
+        "x",
+        "x"
+      ],
+      "respuestaCorrecta": 3,
+      "lat": 38.80547,
+      "lng": 0.021973
+    },
+    {
+      "nombre": "mi casa",
+      "descripcion": "c",
+      "pregunta": "c",
+      "respuestas": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
+      "respuestaCorrecta": 3,
+      "lat": 38.845712,
+      "lng": 0.107353
+    },
+    {
+      "nombre": "c",
+      "descripcion": "c",
+      "pregunta": "c",
+      "respuestas": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
+      "respuestaCorrecta": 0,
+      "lat": 38.845532,
+      "lng": 0.106537
+    },
+    {
+      "nombre": "casa",
+      "descripcion": "casa",
+      "pregunta": "casa",
+      "respuestas": [
+        "casa",
+        "casa",
+        "",
+        ""
+      ],
+      "respuestaCorrecta": 0,
+      "lat": 38.845653,
+      "lng": 0.10746,
+      "fechaCreacion": "2025-06-13T12:31:57.699Z"
+    }
+  ],
+  "lastModified": "2025-06-13T12:43:07.226Z",
+  "version": "1.0.0"
+}
