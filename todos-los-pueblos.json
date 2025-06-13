@@ -1,0 +1,35 @@
+{
+  "pueblos": [],
+  "lastModified": "2025-06-13T11:52:24.000Z",
+  "version": "1.0.0",
+  "marcadoresLibres": [
+    {
+      "nombre": "x",
+      "descripcion": "x",
+      "pregunta": "x",
+      "respuestas": [
+        "x",
+        "x",
+        "x",
+        "x"
+      ],
+      "respuestaCorrecta": 3,
+      "lat": 38.80547,
+      "lng": 0.021973
+    },
+    {
+      "nombre": "mi casa",
+      "descripcion": "c",
+      "pregunta": "c",
+      "respuestas": [
+        "c",
+        "c",
+        "c",
+        "c"
+      ],
+      "respuestaCorrecta": 3,
+      "lat": 38.845712,
+      "lng": 0.107353
+    }
+  ]
+}
